@@ -1,0 +1,6 @@
+{
+  "name": "AI Phone Assistant",
+  "description": "Android AI Phone Assistant App featuring full Telecom API integration, real-time audio WebSocket engine, task management, email alert syncer, and a futuristic cyberpunk-themed UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
